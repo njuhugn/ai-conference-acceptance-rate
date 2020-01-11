@@ -1,4 +1,4 @@
-# Conference Acceptance Rate for AI, ML, DM, NLP
+Conference Acceptance Rate for AI, ML, DM, NLP
 =====
 | Conference     | Long/Full Paper   | Short Paper      |   CCF Rank  | Note | 
 | -------------  |:-------------:    | -----:           |-----:       |-----:|
